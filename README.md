@@ -7,11 +7,15 @@ Permite adicionar, excluir e salvar tarefas utilizando LocalStorage, garantindo 
 
 Adicionar novas tarefas
 
+Marcar tarefas como concluídas utilizando checkbox
+
 Remover tarefas individualmente
 
 Salvar todas as tarefas automaticamente no LocalStorage
 
 Restaurar as tarefas salvas ao recarregar a página
+
+Persistência do estado (concluída / não concluída) no LocalStorage
 
 Interface simples, elegante e responsiva
 
@@ -44,8 +48,6 @@ Abra o arquivo index.html no navegador.
 ✔️ Não requer instalação de dependências
 
 🛠️ Melhorias futuras
-
-Marcar tarefas como concluídas
 
 Botão para limpar todas as tarefas
 

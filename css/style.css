@@ -2,7 +2,6 @@ body {
     background: rgb(32, 150, 209);
 }
 
-
 .container {
     width: 800px;         
     min-height: 200px;
@@ -10,4 +9,14 @@ body {
     background: white;
     border-radius: 2%;
     padding: 50px;
+}
+
+.done {
+  text-decoration: line-through;
+  opacity: 0.7;
+}
+.tasks li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }
